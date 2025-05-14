@@ -12,7 +12,4 @@ A multiplayer Chain Reaction game built in Java using Android Studio.
 2. Open in Android Studio
 3. Build and Run
 
----
-
-🧠 Built with help from AI, inspiration, and passion for strategy games.
 
