@@ -8,7 +8,7 @@ A multiplayer Chain Reaction game built in Java using Android Studio.
 - Customizable board
 
 ## How to Run
-1. Clone the repo or download ZIP
+1. Download ZIP
 2. Open in Android Studio
 3. Build and Run
 
